@@ -4,13 +4,12 @@ from qdrant_client.models import VectorParams, Distance
 import requests
 import time
 from sentence_transformers import SentenceTransformer
-from config import API_KEY
 import os
-
+from config.config import API_KEY_QDRANT, API_KEY_RUNPOD, headers, DB_FILE, TMDB_URL
 
 qdrant = QdrantClient(
     url="https://02d9d3f7-4c63-4769-bf81-7c6cd1fcc9ce.eu-central-1-0.aws.cloud.qdrant.io",
-    api_key=API_KEY
+    api_key=API_KEY_QDRANT
 )
 
 embedding_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
@@ -67,7 +66,8 @@ def build_prompt(query, context_chunks):
     return prompt
 
 def call_vllm(prompt):
-    RUNPOD_API_KEY = API_KEY
+
+    RUNPOD_API_KEY = API_KEY_RUNPOD
     ENDPOINT_ID = 'w4sq1v7bd268di'
 
     base_url = f"https://api.runpod.ai/v2/{ENDPOINT_ID}/"
