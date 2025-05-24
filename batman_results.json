@@ -1,0 +1,399 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/bHxJA9rllKF2jhb11ARAwZJYSp6.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                878,
+                53,
+                10752
+            ],
+            "id": 125249,
+            "original_language": "en",
+            "original_title": "Batman",
+            "overview": "Japanese master spy Daka operates a covert espionage-sabotage organization located in Gotham City's now-deserted Little Tokyo, which turns American scientists into pliable zombies. The great crime-fighters Batman and Robin, with the help of their allies, are in pursuit.",
+            "popularity": 1.2652,
+            "poster_path": "/AvzD3mrtokIzZOiV6zAG7geIo6F.jpg",
+            "release_date": "1943-07-16",
+            "title": "Batman",
+            "video": false,
+            "vote_average": 6.441,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/frDS8A5vIP927KYAxTVVKRIbqZw.jpg",
+            "genre_ids": [
+                14,
+                28,
+                80
+            ],
+            "id": 268,
+            "original_language": "en",
+            "original_title": "Batman",
+            "overview": "Batman must face his most ruthless nemesis when a deformed madman calling himself \"The Joker\" seizes control of Gotham's criminal underworld.",
+            "popularity": 8.9319,
+            "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+            "release_date": "1989-06-21",
+            "title": "Batman",
+            "video": false,
+            "vote_average": 7.233,
+            "vote_count": 8059
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nOWOU0bdX76iF9XA1YPlInLbI4Y.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 2661,
+            "original_language": "en",
+            "original_title": "Batman",
+            "overview": "The Dynamic Duo faces four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
+            "popularity": 2.5122,
+            "poster_path": "/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
+            "release_date": "1966-07-30",
+            "title": "Batman",
+            "video": false,
+            "vote_average": 6.414,
+            "vote_count": 976
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e807jDKiFcntZS32ze88X6I96OD.jpg",
+            "genre_ids": [
+                16,
+                28
+            ],
+            "id": 1297763,
+            "original_language": "ja",
+            "original_title": "ニンジャバットマン対ヤクザリーグ",
+            "overview": "The Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City.  At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it’s up to Batman and his allies to save Gotham!",
+            "popularity": 28.8113,
+            "poster_path": "/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg",
+            "release_date": "2025-03-17",
+            "title": "Batman Ninja vs. Yakuza League",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 1430994,
+            "original_language": "fr",
+            "original_title": "Mon ami Batman Tremblay",
+            "overview": "",
+            "popularity": 0.0214,
+            "poster_path": "/oTsDdOE6barmJ82ksc3xVvaU7sh.jpg",
+            "release_date": "2025-02-25",
+            "title": "Mon ami Batman Tremblay",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 414906,
+            "original_language": "en",
+            "original_title": "The Batman",
+            "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+            "popularity": 21.489,
+            "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            "release_date": "2022-03-01",
+            "title": "The Batman",
+            "video": false,
+            "vote_average": 7.655,
+            "vote_count": 10898
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1MfLMZd8DTkbGj3oqUIKeVwoi69.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12
+            ],
+            "id": 987400,
+            "original_language": "es",
+            "original_title": "Batman Azteca: Choque de imperios",
+            "overview": "In the time of the Aztec Empire, Yohualli Coatl – a young Aztec boy  – experiences tragedy when his father and village leader, Toltecatzin, is murdered by Spanish Conquistadors. Yohualli escapes to Tenochtitlan to warn King Moctezuma and his high priest, Yoka, of imminent danger. Using the temple of Tzinacan, the bat god, as a lair, Yohualli trains with his mentor and assistant, Acatzin, developing equipment and weaponry to confront the Spaniard invasion, protect Moctezuma’s temple, and avenge his father’s death.",
+            "popularity": 0.3987,
+            "poster_path": "/o6DiaNL85FTDLua2EmFWnjDzq0d.jpg",
+            "release_date": "",
+            "title": "Aztec Batman: Clash of Empires",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 148918,
+            "original_language": "ro",
+            "original_title": "Superman, Spider-Man sau Batman",
+            "overview": "Aron, a 5-year-old boy, sets together with his worried father on a journey at the end of which he wishes, like the superheroes in the comic books, to save his mother suffering from a heart condition.",
+            "popularity": 0.1037,
+            "poster_path": "/iUp85s5s7eaPbuCUNqOCeJCEVpY.jpg",
+            "release_date": "2011-06-01",
+            "title": "Superman, Spider-Man or Batman",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sreACNpiCB8SxGVINQR5mY3Y4tp.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                28,
+                35
+            ],
+            "id": 602307,
+            "original_language": "en",
+            "original_title": "LEGO DC Batman: Family Matters",
+            "overview": "Suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.",
+            "popularity": 1.5087,
+            "poster_path": "/rA5bdwbzEAKfvjHRzza6Q3r0otq.jpg",
+            "release_date": "2019-07-21",
+            "title": "LEGO DC Batman: Family Matters",
+            "video": false,
+            "vote_average": 6.705,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rpOqHZMNIaI4qP4r7nw1B7oA0mx.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 415,
+            "original_language": "en",
+            "original_title": "Batman & Robin",
+            "overview": "Batman and Robin deal with relationship issues while preventing Mr. Freeze and Poison Ivy from attacking Gotham City.",
+            "popularity": 5.4967,
+            "poster_path": "/cGRDufDDSrFrv7VI4YnmWnslne0.jpg",
+            "release_date": "1997-06-20",
+            "title": "Batman & Robin",
+            "video": false,
+            "vote_average": 4.367,
+            "vote_count": 5116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 272,
+            "original_language": "en",
+            "original_title": "Batman Begins",
+            "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+            "popularity": 12.5563,
+            "poster_path": "/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+            "release_date": "2005-06-10",
+            "title": "Batman Begins",
+            "video": false,
+            "vote_average": 7.713,
+            "vote_count": 21460
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 131185,
+            "original_language": "tl",
+            "original_title": "Alyas Batman En Robin",
+            "overview": "Alyas Batman en Robin is a 1991 Filipino Batman comedy film produced by Regal Films spoofing the 1960s Batman television series. The movie was initially an unauthorized production, set to capitalize on the then in-production 1989 Batman film starring Michael Keaton. Warner Brothers threatened legal action and the release of the film was delayed until legal entanglements could be sorted out. The film was released in 1991, two years later than the intended 1989 release.",
+            "popularity": 0.1226,
+            "poster_path": "/m7ysdICz4AMvFTU8wYKz3i69n6P.jpg",
+            "release_date": "1991-04-06",
+            "title": "Alias Batman and Robin",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/silcq0dj3Scf1LtpBjjVKXMQXS2.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "id": 485942,
+            "original_language": "ja",
+            "original_title": "ニンジャバットマン",
+            "overview": "Batman, along with many of his allies and adversaries, finds himself transported to feudal Japan by Gorilla Grodd's time displacement machine.",
+            "popularity": 2.5234,
+            "poster_path": "/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg",
+            "release_date": "2018-06-15",
+            "title": "Batman Ninja",
+            "video": false,
+            "vote_average": 5.846,
+            "vote_count": 891
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 209112,
+            "original_language": "en",
+            "original_title": "Batman v Superman: Dawn of Justice",
+            "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+            "popularity": 14.0308,
+            "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+            "release_date": "2016-03-23",
+            "title": "Batman v Superman: Dawn of Justice",
+            "video": false,
+            "vote_average": 5.979,
+            "vote_count": 18264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u82RurwuuaHlnv0SWEpSSK8T7a8.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 456348,
+            "original_language": "en",
+            "original_title": "Batman & Bill",
+            "overview": "Everyone thinks that Bob Kane created Batman, but that’s not the whole truth. One author makes it his crusade to make it known that Bill Finger, a struggling writer, actually helped invent the iconic superhero, from concept to costume to the very character we all know and love. Bruce Wayne may be Batman’s secret identity, but his creator was always a true mystery.",
+            "popularity": 0.4159,
+            "poster_path": "/gc1oyq0K8TdtFTXmYV03v536HsI.jpg",
+            "release_date": "2017-05-06",
+            "title": "Batman & Bill",
+            "video": false,
+            "vote_average": 7.082,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3WP0RObZ2t7ShHfqQpKPljF9B22.jpg",
+            "genre_ids": [
+                28,
+                14
+            ],
+            "id": 364,
+            "original_language": "en",
+            "original_title": "Batman Returns",
+            "overview": "Batman must face The Penguin, a sewer-dwelling gangleader intent on being accepted into Gotham society.  Meanwhile, another Gotham resident finds herself transformed into Catwoman and is out for revenge...",
+            "popularity": 7.1768,
+            "poster_path": "/uEIvgvxzK08922iU61OvO3ORs0s.jpg",
+            "release_date": "1992-06-19",
+            "title": "Batman Returns",
+            "video": false,
+            "vote_average": 6.936,
+            "vote_count": 6683
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r2NyPy5XzZEZXatxsWDqRtI7yWk.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 1460147,
+            "original_language": "en",
+            "original_title": "Batman and the Oscar Night Interrogation",
+            "overview": "In a Batman movie with no script, filmed in 3 hours and edited in a week, the Dark Knight and Commissioner Gordon interrogate the Joker for his most absurd crime yet—peeing on a bus. But what starts as a ridiculous accusation spirals into a conspiracy more twisted than they ever imagined.",
+            "popularity": 0.2418,
+            "poster_path": "/jEvxsVmEOiRM7fDOfK0VDGs9p2F.jpg",
+            "release_date": "2025-03-10",
+            "title": "Batman and the Oscar Night Interrogation",
+            "video": false,
+            "vote_average": 10.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mo1eLCJTp5JGGz2tKlW98KXpRo0.jpg",
+            "genre_ids": [
+                16,
+                28,
+                35,
+                10751
+            ],
+            "id": 324849,
+            "original_language": "en",
+            "original_title": "The Lego Batman Movie",
+            "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+            "popularity": 5.6069,
+            "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+            "release_date": "2017-02-08",
+            "title": "The Lego Batman Movie",
+            "video": false,
+            "vote_average": 7.225,
+            "vote_count": 5114
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1338401,
+            "original_language": "pt",
+            "original_title": "As Aventuras com o Batman 2",
+            "overview": "After the crisis caused by Matheus in the city, the toys start to worry more about their own safety. Additionally, Batman’s absence from the lives of the citizens increases the chances of Matheus carrying out his plan for revenge, which involves using two innocent toys as test subjects. These events could lead to serious consequences for both the community and the individuals involved.",
+            "popularity": 0.0071,
+            "poster_path": "/8I6Lr7junGoMjJKdF15i1S8UAyJ.jpg",
+            "release_date": "2019-05-20",
+            "title": "Adventures with Batman 2",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6cCtZmBd37p6XzTsDdO2TGwVhA.jpg",
+            "genre_ids": [
+                35,
+                28,
+                80,
+                12
+            ],
+            "id": 1332473,
+            "original_language": "en",
+            "original_title": "Batman a Modrý Joker Mají Problém",
+            "overview": "Batman finally catches The Joker and tries to interrogate him about the dissappearence of Herobrine, but Joker has become a blue lipstick liberal and now Batman has to discover his secrets, accompanied by his new companion - Robin / Terkel! The whole movie is improvized and has been made in less than a week",
+            "popularity": 0.0783,
+            "poster_path": "/tnUhWYdmMGkshSX2uqQ82Qm1ENW.jpg",
+            "release_date": "2024-08-17",
+            "title": "Batman and Blue Joker in Trouble",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 10,
+    "total_results": 196
+}
