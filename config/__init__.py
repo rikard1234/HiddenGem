@@ -16,3 +16,5 @@ TMDB_URL = "https://api.themoviedb.org/3/movie/{}"
 #kwkawkwa
 #kwikwikwi
 #kubus
+#kwikwikwi\
+#dupa
