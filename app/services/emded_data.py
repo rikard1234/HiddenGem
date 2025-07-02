@@ -34,14 +34,16 @@ for _, row in df.iterrows():
             id=int(row["id"]),
             vector=vector,
             payload={
-                "text" : text,
-                "db_id": int(row["id"]),
-                "title": row["title"],
-                "release_date": row["release_date"],
-                "genres": row["genres"],
-                "vote_average": row["vote_average"],
-                "popularity": row["popularity"],
-                "original_language": row["original_language"]
+                "text": text,  # this is the actual page_content
+                "metadata": {  # this is the metadata dictionary
+                    "db_id": int(row["id"]),
+                    "title": row["title"],
+                    "release_date": row["release_date"],
+                    "genres": row["genres"],
+                    "vote_average": row["vote_average"],
+                    "popularity": row["popularity"],
+                    "original_language": row["original_language"]
+                }
             }
         )
     )

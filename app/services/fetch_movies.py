@@ -5,9 +5,12 @@ from time import sleep
 from tqdm import tqdm
 import os 
 from dotenv import load_dotenv
+from config.config import DB_FILE, headers, TMDB_URL
+import sys 
 
 conn = sqlite3.connect(DB_FILE)
 cursor = conn.cursor()
+
 
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS movies (
@@ -26,17 +29,16 @@ CREATE TABLE IF NOT EXISTS movies (
 """)
 conn.commit()
 
-with open("movie_ids_05_15_2025.json", "r", encoding="utf-8") as f:
+with open("data/movie_ids_05_15_2025.json", "r", encoding="utf-8") as f:
     movie_ids = [json.loads(line)["id"] for line in f if line.strip()]
-print(movie_ids[:10])
 
-for movie_id in tqdm(movie_ids[7700:15000]):  # Adjust limit as needed
+for movie_id in tqdm(movie_ids[425000:500000]):  
     try:
         url = TMDB_URL.format(movie_id)
         response = requests.get(url, headers=headers)
         print(response.text)
         if response.status_code != 200:
-            sleep(0.25)  # avoid rate limits
+            sleep(0.25)  
             continue
         data = response.json()
         genres = ",".join([g["name"] for g in data.get("genres", [])])
