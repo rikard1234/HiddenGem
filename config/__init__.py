@@ -10,7 +10,8 @@ headers = {
     "accept": "application/json",
     "Authorization": f"Bearer {API_KEY_RUNPOD}"
 }
-#
+###
 DB_FILE = "movies.db"
 TMDB_URL = "https://api.themoviedb.org/3/movie/{}"
 #kwkawkwa
+#kwikwikwi
