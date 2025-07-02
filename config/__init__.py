@@ -14,4 +14,5 @@ headers = {
 DB_FILE = "movies.db"
 TMDB_URL = "https://api.themoviedb.org/3/movie/{}"
 #kwkawkwa
-#kwikwikwi
+#kwikwikwi\
+#dupa
